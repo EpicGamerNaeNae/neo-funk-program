@@ -394,7 +394,7 @@ class PlayState extends MusicBeatState
 		switch (curStage)
 		{
 			case 'stage': //Week 1
-					var bg:BGSprite = new BGSprite('stageback', -600, -200, 1, 1);
+					var bg:BGSprite = new BGSprite('stageback', -200, 60, 1, 1);
 					add(bg);
 
 
@@ -411,6 +411,7 @@ class PlayState extends MusicBeatState
 				halloweenWhite.alpha = 0;
 				halloweenWhite.blend = ADD;
 
+			
 				//PRECACHE SOUNDS
 				CoolUtil.precacheSound('thunder_1');
 				CoolUtil.precacheSound('thunder_2');
