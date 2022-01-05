@@ -1,18 +1,18 @@
 {
 	"songs": [
-		["Bautiful Peace", "dad", [146, 113, 253]],
-		["eggin-it", "dad", [146, 113, 253]],
-		["Armament", "dad", [146, 113, 253]]
+		["Beautiful Peace", "makoto", [146, 113, 253]],
+		["Eggin it", "makoto", [146, 113, 253]],
+		["Armament", "makoto", [146, 113, 253]]
 	],
 
 	"weekCharacters": [
-		"dad",
+		"makoto",
 		"bf",
 		"gf"
 	],
 	"weekBackground": "stage",
 
-	"storyName": "Daddy Dearest",
+	"storyName": "Makoto",
 	"weekBefore": "tutorial",
 	"weekName": "Week 1",
 	"startUnlocked": true,
