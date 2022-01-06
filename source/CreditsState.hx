@@ -79,6 +79,20 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+			['Neo FUNK Program Discord','discord',		'Join our discord!',									'https://discord.gg/YFdXrCv6KN',		'696969'],
+			[''],
+			['Neo Funk Program Team'],
+			['Irumanocity',			'irumanocity',		'Lead Director/Musician',								'https://www.youtube.com/channel/UCK7xrnaUDEVPUVEVczStqCw',	'E596B6'],
+			['Thundrite',			'magnus',			'Co-Director/Vocalist/Musician/Profesional Hype Man',	'https://twitter.com/epicgamernaenae',	'C13E3E'],
+			['Magnus',				'magnus',			'Programmer',											'https://twitter.com/epicgamernaenae',	'C13E3E'],
+			['Softhands',			'magnus',			'Co-Director/Musician',									'https://twitter.com/epicgamernaenae',	'C13E3E'],
+			['v1corp',				'magnus',			'Lead Musician',										'https://twitter.com/epicgamernaenae',	'C13E3E'],
+			['Bonk',				'magnus',			'Animator',												'https://twitter.com/epicgamernaenae',	'C13E3E'],
+			['Timson',				'magnus',			'Lead Charter',											'https://twitter.com/epicgamernaenae',	'C13E3E'],
+			['BlonicLikesToParty ',	'magnus',			'Logo Designer',										'https://twitter.com/epicgamernaenae',	'C13E3E'],
+			['Loxowoo',				'magnus',			'Icon Designer/Sprite Artist',							'https://twitter.com/epicgamernaenae',	'C13E3E'],
+			['Hi_Im_Just_Here',		'magnus',			'Background Artist',									'https://twitter.com/epicgamernaenae',	'C13E3E'],
+			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',						'https://twitter.com/Shadow_Mario_',	'444444'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',					'https://twitter.com/river_oaken',		'C30085'],
