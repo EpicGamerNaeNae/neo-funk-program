@@ -346,6 +346,8 @@ class PlayState extends MusicBeatState
 		if(PlayState.SONG.stage == null || PlayState.SONG.stage.length < 1) {
 			switch (songName)
 			{
+				case 'shumai-trainer':
+					curStage = 'tutorial';
 				default:
 					curStage = 'stage';
 			}
@@ -388,8 +390,6 @@ class PlayState extends MusicBeatState
 				stageFront.setGraphicSize(Std.int(stageFront.width * 1.1));
 				stageFront.updateHitbox();
 				add(stageFront);
-					var bg:BGSprite = new BGSprite('stageback', -600, -200, 1, 1);
-					add(bg);
 
 				if(!ClientPrefs.lowQuality) {
 					var stageLight:BGSprite = new BGSprite('stage_light', -125, -100, 0.9, 0.9);
