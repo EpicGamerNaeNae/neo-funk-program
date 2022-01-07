@@ -112,6 +112,7 @@ class CreditsState extends MusicBeatState
 			['kawaisprite',			'kawaisprite',		"Composer of Friday Night Funkin'",						'https://twitter.com/kawaisprite',		'6475F3']
 		];
 		
+		
 		for(i in pisspoop){
 			creditsStuff.push(i);
 		}
