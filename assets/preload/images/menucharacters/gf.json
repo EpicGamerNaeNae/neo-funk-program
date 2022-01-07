@@ -2,8 +2,8 @@
 	
 	"image": "Menu_GF",
 	"position": [
-		15,
-		-40
+		0,
+		-25
 	],
 	"scale": 1,
 	"idle_anim": "M GF Idle",

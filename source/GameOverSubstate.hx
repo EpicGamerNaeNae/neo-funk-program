@@ -114,6 +114,7 @@ class GameOverSubstate extends MusicBeatSubstate
 
 			if (boyfriend.animation.curAnim.finished)
 			{
+				coolStartDeath();
 				boyfriend.startedDeath = true;
 			}
 		}
@@ -134,7 +135,10 @@ class GameOverSubstate extends MusicBeatSubstate
 
 	var isEnding:Bool = false;
 
-
+	function coolStartDeath(?volume:Float = 1):Void
+	{
+		FlxG.sound.playMusic(Paths.music(loopSoundName), volume);
+	}
 
 	function endBullshit():Void
 	{
