@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_Makoto",
+	"position": [
+		15,
+		-40
+	],
+	"scale": 1,
+	"idle_anim": "M Makoto Idle",
+	"confirm_anim": "M Makoto HEY"
+}
