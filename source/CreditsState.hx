@@ -79,6 +79,7 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+			
 			['Neo FUNK Program Discord','discord',		'Join our discord!',									'https://discord.gg/YFdXrCv6KN',		'696999'],
 			[''],
 			['Neo Funk Program Team'],
@@ -109,7 +110,54 @@ class CreditsState extends MusicBeatState
 			['ninjamuffin99',		'ninjamuffin99',	"Programmer of Friday Night Funkin'",					'https://twitter.com/ninja_muffin99',	'F73838'],
 			['PhantomArcade',		'phantomarcade',	"Animator of Friday Night Funkin'",						'https://twitter.com/PhantomArcade3K',	'FFBB1B'],
 			['evilsk8r',			'evilsk8r',			"Artist of Friday Night Funkin'",						'https://twitter.com/evilsk8r',			'53E52C'],
-			['kawaisprite',			'kawaisprite',		"Composer of Friday Night Funkin'",						'https://twitter.com/kawaisprite',		'6475F3']
+			['kawaisprite',			'kawaisprite',		"Composer of Friday Night Funkin'",						'https://twitter.com/kawaisprite',		'6475F3'],
+			[' ','blank',		' ',									'https://bruhzooie.org',		'696999'],
+			[' ','blank',		' ',									'https://bruhzooie.org',		'696999'],
+			['Cool people'],
+			['(please don\'t tell'], 
+			['anyone \nI put this in here)'],
+			['Callie',			'egg',			'Actually helped with the mod but barely\nso I\'m not putting her in the actual credits',	'https://www.twitter.com/imsusinamongus',			'B07C35'],
+			['Merkup',			'merkup',		'Gangnam Style was on year ago!!!!!!!!',					'https://www.twitter.com/merkup1',			'FE2D13'],
+			['Floopy',			'floopy',		'floopytwt rise up!!!!!!!!!!!',								'https://www.twitter.com/floopyfingergun',	'FFDBB1'],
+			['Tony Zaret',		'tony',			'when there\'s a n*rmie... in the Group Chat!',				'https://twitter.com/tonyzaret',			'98A63F'],
+			['Obama',			'obama',		'Obama? more like Obummer amirite!!!!!',					'https://twitter.com/BarackObama',			'91715A'],
+			['Karl',			'karl',			'Red Ape Family is the best show ever made',				'https://twitter.com/redapefamilyfan',		'17E8B8'],
+			['Dream',			'dream',		'#DreamForSmash',											'https://twitter.com/Dream',				'5DFF0C'],
+			[' ','blank',		' ',									'https://bruhzooie.org',		'696999'],
+			[' ','blank',		' ',									'https://bruhzooie.org',		'696999'],
+			['Neo FUNK Program Discord','discord',		'Join our discord!',									'https://discord.gg/YFdXrCv6KN',		'696999'],
+			[''],
+			['Neo Funk Program Team'],
+			['Irumanocity',			'irumanocity',		'Lead Director/Musician',								'https://www.youtube.com/channel/UCK7xrnaUDEVPUVEVczStqCw',	'E596B6'],
+			['Thundrite',			'thundrite',		'Co-Director/Vocalist/Musician/Profesional Hype Man', 	'https://www.youtube.com/channel/UClxrjkULZBi0KniVLrsUbLg',	'E99340'],
+			['Magnus',				'magnus',			'Programmer',											'https://twitter.com/epicgamernaenae',	'C13E3E'],
+			['Softhands',			'softhands',		'Co-Director/Musician',									'https://www.youtube.com/channel/UCZP_hnjrel_mUV9k8jNBJvg',	'AB0D0D'],
+			['v1corp',				'v1',				'Lead Musician',										'https://twitter.com/corp_v1',			'B78BFD'],
+			['Bonk',				'bonk',				'Animator',												'https://www.youtube.com/watch?v=dQw4w9WgXcQ',	'1B3790'],
+			['Timson',				'timson',			'Lead Charter',											'https://twitter.com/Timson79795725',	'61C394'],
+			['BlonicLikesToParty ',	'blonic',			'Logo Designer',										'https://www.youtube.com/channel/UCCAIW6w-Bm8lNwlzsAIar7Q',	'0000D8'],
+			['Loxowoo',				'loxx',				'Icon Designer/Sprite Artist',							'https://twitter.com/loxxxvv',	'A4896E'],
+			['Hi_Im_Just_Here',		'justhere',			'Background Artist',									'https://twitter.com/Koolaid_king2?t=HYUtx36fLsYO4r6_8nDP2g&s=09',	'057E93'],
+			[''],
+			['Psych Engine Team'],
+			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',						'https://twitter.com/Shadow_Mario_',	'444444'],
+			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',					'https://twitter.com/river_oaken',		'C30085'],
+			['bb-panzu',			'bb-panzu',			'Additional Programmer of Psych Engine',				'https://twitter.com/bbsub3',			'389A58'],
+			[''],
+			['Engine Contributors'],
+			['shubs',				'shubs',			'New Input System Programmer',							'https://twitter.com/yoshubs',			'4494E6'],
+			['SqirraRNG',			'gedehari',			'Chart Editor\'s Sound Waveform base',					'https://twitter.com/gedehari',			'FF9300'],
+			['iFlicky',				'iflicky',			'Delay/Combo Menu Song Composer\nand Dialogue Sounds',	'https://twitter.com/flicky_i',			'C549DB'],
+			['PolybiusProxy',		'polybiusproxy',	'.MP4 Video Loader Extension',							'https://twitter.com/polybiusproxy',	'FFEAA6'],
+			['Keoiki',				'keoiki',			'Note Splash Animations',								'https://twitter.com/Keoiki_',			'FFFFFF'],
+			[''],
+			["Funkin' Crew"],
+			['ninjamuffin99',		'ninjamuffin99',	"Programmer of Friday Night Funkin'",					'https://twitter.com/ninja_muffin99',	'F73838'],
+			['PhantomArcade',		'phantomarcade',	"Animator of Friday Night Funkin'",						'https://twitter.com/PhantomArcade3K',	'FFBB1B'],
+			['evilsk8r',			'evilsk8r',			"Artist of Friday Night Funkin'",						'https://twitter.com/evilsk8r',			'53E52C'],
+			['kawaisprite',			'kawaisprite',		"Composer of Friday Night Funkin'",						'https://twitter.com/kawaisprite',		'6475F3'],
+			
+			
 		];
 		
 		
