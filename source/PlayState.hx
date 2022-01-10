@@ -3425,7 +3425,7 @@ class PlayState extends MusicBeatState
 
 			if(ClientPrefs.ghostTapping) return;
 
-			if (combo > 5 && gf.animOffsets.exists('sad'))
+			if (combo > 5)
 			{
 				gf.playAnim('sad');
 			}
