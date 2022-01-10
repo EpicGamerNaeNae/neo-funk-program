@@ -125,6 +125,7 @@ class CreditsState extends MusicBeatState
 			['Karl',			'karl',			'Red Ape Family is the best show ever made',				'https://twitter.com/redapefamilyfan',		'17E8B8'],
 			['Dream',			'dream',		'#DreamForSmash',											'https://twitter.com/Dream',				'5DFF0C'],
 			['Bad Piggies',			'piggy',		'They go to BurgerFi',								'https://youtu.be/kErfONjxpbQ',	'F6900E'],
+			['Dhar Mann',			'dhar',		'Son PLAYS FRIDAY NIGHT FUNKIN\' MODS all day,\nInstantly regrets it',								'https://www.youtube.com/c/DharMannOfficial/videos',	'2075AE'],
 			['','blank',		'37',									'https://bruhzooie.org',		'373737'],
 			[' ','blank',		' ',									'https://bruhzooie.org',		'696999'],
 			[' ','blank',		' ',									'https://bruhzooie.org',		'696999'],
