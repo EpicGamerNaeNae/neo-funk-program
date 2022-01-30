@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Castaway", "gundham", [114, 108, 94]],
+		["Tanakoshia", "gundham", [114, 108, 94]],
+		["Deva-Station", "gundham", [114, 108, 94]]
+	],
+
+	"weekCharacters": [
+		"gundham",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Tanaka Empire",
+	"weekBefore": "week2",
+	"weekName": "Week 3",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
