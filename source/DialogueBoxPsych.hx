@@ -475,7 +475,6 @@ class DialogueBoxPsych extends FlxSpriteGroup
 		if(character != lastCharacter) {
 			box.animation.play(centerPrefix + boxType + 'Open', true);
 			updateBoxOffsets(box);
-			box.flipX = (lePosition == 'left');
 		} else if(boxType != lastBoxType) {
 			box.animation.play(centerPrefix + boxType, true);
 			updateBoxOffsets(box);
@@ -532,6 +531,5 @@ class DialogueBoxPsych extends FlxSpriteGroup
 			box.offset.set(10, 0);
 		}
 		
-		if(!box.flipX) box.offset.y += 10;
 	}
 }

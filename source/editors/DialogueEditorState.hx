@@ -173,8 +173,6 @@ class DialogueEditorState extends MusicBeatState
 		var anim:String = isAngry ? 'angry' : 'normal';
 
 		switch(character.jsonFile.dialogue_pos) {
-			case 'left':
-				box.flipX = true;
 			case 'center':
 				if(isAngry) {
 					anim = 'center-angry';

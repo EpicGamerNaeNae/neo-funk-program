@@ -3,9 +3,9 @@
 		-100,
 		-300
 	],
-	"dialogue_pos": "right",
+	"dialogue_pos": "left",
 	"scale": 1,
-	"image": "BF_Dialogue",
+	"image": "makoto_Dialogue",
 	"animations": [
 		{
 			"idle_offsets": [
