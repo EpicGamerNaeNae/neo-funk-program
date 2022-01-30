@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Corseplay", "maki", [114, 108, 94]],
+		["Aichmophobia", "maki", [114, 108, 94]],
+		["Scythenize", "maki", [114, 108, 94]]
+	],
+
+	"weekCharacters": [
+		"maki",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "library",
+
+	"storyName": "Death Wish",
+	"weekBefore": "week1",
+	"weekName": "Week 2",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

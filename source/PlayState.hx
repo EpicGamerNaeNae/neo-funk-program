@@ -409,8 +409,12 @@ class PlayState extends MusicBeatState
 				}
 
 			case 'stage': //Week 1
-					var bg:BGSprite = new BGSprite('school', -300, 60, 1, 1);
-					add(bg);
+				var bg:BGSprite = new BGSprite('school', -300, 60, 1, 1);
+				add(bg);
+
+			case 'library': //Week 2
+				var bg:BGSprite = new BGSprite('library', -300, 60, 1, 1);
+				add(bg);
 		}
 
 		if(isPixelStage) {
