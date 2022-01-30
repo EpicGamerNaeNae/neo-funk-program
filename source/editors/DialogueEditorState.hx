@@ -72,9 +72,6 @@ class DialogueEditorState extends MusicBeatState
 		box.scrollFactor.set();
 		box.antialiasing = ClientPrefs.globalAntialiasing;
 		box.animation.addByPrefix('normal', 'speech bubble normal', 24);
-		box.animation.addByPrefix('angry', 'AHH speech bubble', 24);
-		box.animation.addByPrefix('center', 'speech bubble middle', 24);
-		box.animation.addByPrefix('center-angry', 'AHH Speech Bubble middle', 24);
 		box.animation.play('normal', true);
 		box.setGraphicSize(Std.int(box.width * 0.9));
 		box.updateHitbox();
