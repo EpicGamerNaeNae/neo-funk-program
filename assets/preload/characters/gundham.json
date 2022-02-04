@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Gundham Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				2
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Gundham Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				2
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Gundham Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				3
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Gundham Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Gundham Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Gundham",
+	"position": [
+		-200,
+		130
+	],
+	"healthicon": "gundham",
+	"flip_x": true,
+	"healthbar_colors": [
+		152,
+		85,
+		81
+	],
+	"camera_position": [
+		0,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

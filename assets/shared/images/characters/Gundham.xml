@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Gundham.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gundham_Down0000" x="0" y="0" width="600" height="750"/>
+	<SubTexture name="Gundham_Down0001" x="600" y="0" width="580" height="750" frameX="-15" frameY="0" frameWidth="600" frameHeight="750"/>
+	<SubTexture name="Gundham_Down0002" x="600" y="0" width="580" height="750" frameX="-15" frameY="0" frameWidth="600" frameHeight="750"/>
+	<SubTexture name="Gundham_Idle0000" x="1180" y="0" width="592" height="871" frameX="0" frameY="-2" frameWidth="592" frameHeight="873"/>
+	<SubTexture name="Gundham_Idle0001" x="1180" y="0" width="592" height="871" frameX="0" frameY="-2" frameWidth="592" frameHeight="873"/>
+	<SubTexture name="Gundham_Idle0002" x="1772" y="0" width="583" height="872" frameX="-4" frameY="-1" frameWidth="592" frameHeight="873"/>
+	<SubTexture name="Gundham_Idle0003" x="1772" y="0" width="583" height="872" frameX="-4" frameY="-1" frameWidth="592" frameHeight="873"/>
+	<SubTexture name="Gundham_Idle0004" x="2355" y="0" width="577" height="872" frameX="-7" frameY="-1" frameWidth="592" frameHeight="873"/>
+	<SubTexture name="Gundham_Idle0005" x="2355" y="0" width="577" height="872" frameX="-7" frameY="-1" frameWidth="592" frameHeight="873"/>
+	<SubTexture name="Gundham_Idle0006" x="2932" y="0" width="571" height="873" frameX="-10" frameY="0" frameWidth="592" frameHeight="873"/>
+	<SubTexture name="Gundham_Idle0007" x="2932" y="0" width="571" height="873" frameX="-10" frameY="0" frameWidth="592" frameHeight="873"/>
+	<SubTexture name="Gundham_Idle0008" x="2932" y="0" width="571" height="873" frameX="-10" frameY="0" frameWidth="592" frameHeight="873"/>
+	<SubTexture name="Gundham_Idle0009" x="2932" y="0" width="571" height="873" frameX="-10" frameY="0" frameWidth="592" frameHeight="873"/>
+	<SubTexture name="Gundham_Idle0010" x="2932" y="0" width="571" height="873" frameX="-10" frameY="0" frameWidth="592" frameHeight="873"/>
+	<SubTexture name="Gundham_Idle0011" x="2932" y="0" width="571" height="873" frameX="-10" frameY="0" frameWidth="592" frameHeight="873"/>
+	<SubTexture name="Gundham_Idle0012" x="2932" y="0" width="571" height="873" frameX="-10" frameY="0" frameWidth="592" frameHeight="873"/>
+	<SubTexture name="Gundham_Idle0013" x="2932" y="0" width="571" height="873" frameX="-10" frameY="0" frameWidth="592" frameHeight="873"/>
+	<SubTexture name="Gundham_Right0000" x="3503" y="0" width="580" height="721"/>
+	<SubTexture name="Gundham_Right0001" x="0" y="873" width="567" height="721" frameX="-6" frameY="0" frameWidth="580" frameHeight="721"/>
+	<SubTexture name="Gundham_Right0002" x="0" y="873" width="567" height="721" frameX="-6" frameY="0" frameWidth="580" frameHeight="721"/>
+	<SubTexture name="Gundham_Up0000" x="567" y="873" width="452" height="872" frameX="-9" frameY="0" frameWidth="461" frameHeight="872"/>
+	<SubTexture name="Gundham_Up0001" x="1019" y="873" width="450" height="872" frameX="0" frameY="0" frameWidth="461" frameHeight="872"/>
+	<SubTexture name="Gundham_Up0002" x="1019" y="873" width="450" height="872" frameX="0" frameY="0" frameWidth="461" frameHeight="872"/>
+	<SubTexture name="Gundham_Left0000" x="1469" y="873" width="797" height="767" frameX="-4" frameY="0" frameWidth="801" frameHeight="767"/>
+	<SubTexture name="Gundham_Left0001" x="2266" y="873" width="796" height="767" frameX="0" frameY="0" frameWidth="801" frameHeight="767"/>
+	<SubTexture name="Gundham_Left0002" x="2266" y="873" width="796" height="767" frameX="0" frameY="0" frameWidth="801" frameHeight="767"/>
+</TextureAtlas>
