@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "idle",
-			"indices": [],
-			"name": "Gundham Idle"
+			"fps": 24,
+			"name": "Gundham Idle",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-94,
-				-119
+				186,
+				-79
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Gundham Right"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				143,
-				-88
-			],
 			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Gundham Left"
+			"name": "Gundham Right",
+			"indices": []
 		},
 		{
+			"offsets": [
+				-17,
+				-118
+			],
 			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Gundham Left",
+			"indices": []
+		},
+		{
 			"offsets": [
 				-55,
 				3
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Gundham Up"
+			"fps": 24,
+			"name": "Gundham Up",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-50,
 				-100
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Gundham Down"
+			"fps": 24,
+			"name": "Gundham Down",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,

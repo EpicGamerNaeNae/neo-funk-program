@@ -417,7 +417,7 @@ class PlayState extends MusicBeatState
 				add(bg);
 			
 			case 'strawberryhouse': //Week 3
-				var bg:BGSprite = new BGSprite('strawberry', -200, -100, 1, 1);
+				var bg:BGSprite = new BGSprite('strawberry', -300, -100, 1, 1);
 				add(bg);
 		}
 
