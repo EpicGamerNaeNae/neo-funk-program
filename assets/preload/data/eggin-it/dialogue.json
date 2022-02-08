@@ -1,18 +1,39 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "among us"
+			"text": "Pfft…is that the best you could do?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "My my, Shumai’s getting cocky.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "makoto",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "I was just warming up!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "deez nuts"
+			"text": "Yeah right. Getting past you is going to be a breeze!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "makoto",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "...you’re gonna regret saying that."
 		}
 	]
 }

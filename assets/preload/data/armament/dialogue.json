@@ -1,18 +1,74 @@
 {
 	"dialogue": [
 		{
+			"expression": "talk",
+			"text": "Gotta hand it to ya…that was intense.",
+			"boxState": "normal",
 			"speed": 0.05,
-			"portrait": "bf",
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "How do you keep winning?! You’re a freakin’ NOOB!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "makoto"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Awwww, is Mr. Naegi gonna cry?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "makoto",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "among us"
+			"text": "..."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "deez nuts"
+			"expression": "shocked",
+			"text": "Uh oh..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "makoto",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "You know what?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "makoto",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "I'm done playing games with you!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Oh dear god.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "makoto",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "TIME TO GO ALL OUT!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Dammit, Kokichi! Now, look at what you've done!"
 		}
 	]
 }

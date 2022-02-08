@@ -1,0 +1,76 @@
+{
+	"position": [
+		-100,
+		-300
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "Maki_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "BF",
+			"loop_name": "BFLOOP"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF EXCITED",
+			"loop_name": "BF EXCITEDLOOP"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF PISSED",
+			"loop_name": "BF PISSEDLOOP"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF SHOCK",
+			"loop_name": "BF SHOCKLOOP"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "BF CONFUSEDLOOP",
+			"idle_name": "BF CONFUSED"
+		}
+	]
+}

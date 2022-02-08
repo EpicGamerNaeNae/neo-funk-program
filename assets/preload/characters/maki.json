@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "idle",
-			"indices": [],
-			"name": "Maki Idle"
+			"fps": 24,
+			"name": "Maki Idle",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				6,
 				2
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Maki Right"
+			"fps": 24,
+			"name": "Maki Right",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				2,
 				2
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Maki Left"
+			"fps": 24,
+			"name": "Maki Left",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				5,
 				3
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Maki Up"
+			"fps": 24,
+			"name": "Maki Up",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Maki Down"
+			"fps": 24,
+			"name": "Maki Down",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/Maki",
 	"position": [
 		-200,
-		130
+		150
 	],
 	"healthicon": "maki",
 	"flip_x": true,

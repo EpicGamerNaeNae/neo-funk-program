@@ -1,18 +1,116 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "among us"
+			"text": "Welcome to the infamous Hope’s Peak\\nAcademy/!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "shocked",
+			"text": "Wow!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
+			"expression": "excited",
+			"text": "This Junko chick went all out on background design."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
 			"expression": "talk",
-			"text": "deez nuts"
+			"text": "Junko didn’t design this background."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Wait, she didn’t?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "makoto",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why hello there, Shumai!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Makoto..? Is that you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "And my name is Shuichi Saihara, goddammit!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "makoto",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "I am the first challenge of the Neo Funk Program!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Technically, you’re the second-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "makoto",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Shut the fuck up, Kokichi."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "makoto",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Are you ready to rumble?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "I mean…I don’t have a choice."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "makoto",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Glad you understand that."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "makoto",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Let’s do this!"
 		}
 	]
 }

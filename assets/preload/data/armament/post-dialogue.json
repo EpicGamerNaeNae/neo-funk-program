@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "Dammit, you win!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "makoto"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Phew! That was fucking close..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "You nearly died, Shumai. "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I would’ve lost all my respect for you if you were to lose to this baby-faced freak."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "makoto",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Just get out of here already…your next challenge is inside the school."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You mean that school isn’t just a prop?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Of course it is!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We’re just gonna teleport inside it."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That makes things even more confusing but whatever."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "makoto",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bye! Get out now!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay jeez!"
+		}
+	]
+}

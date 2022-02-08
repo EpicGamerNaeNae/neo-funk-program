@@ -417,7 +417,7 @@ class PlayState extends MusicBeatState
 				add(bg);
 			
 			case 'strawberryhouse': //Week 3
-				var bg:BGSprite = new BGSprite('strawberry', -300, -100, 1, 1);
+				var bg:BGSprite = new BGSprite('strawberry', -500, -250, 1, 1);
 				add(bg);
 		}
 
@@ -1934,18 +1934,22 @@ class PlayState extends MusicBeatState
 
 		var iconOffset:Int = 26;
 
-		iconP1.x = healthBar.x + (healthBar.width * (FlxMath.remapToRange(healthBar.percent, 0, 100, 100, 0) * 0.01)) + (150 * iconP1.scale.x - 150) / 2 - iconOffset;
-		iconP2.x = healthBar.x + (healthBar.width * (FlxMath.remapToRange(healthBar.percent, 0, 100, 100, 0) * 0.01)) - (150 * iconP2.scale.x) / 2 - iconOffset * 2;
+		iconP1.x = healthBar.x + (healthBar.width * (FlxMath.remapToRange(healthBar.percent, 0, 100, 100, 0) * 0.01)) + (150 * iconP1.scale.x - 150) / 2 - iconOffset + 10;
+		iconP2.x = healthBar.x + (healthBar.width * (FlxMath.remapToRange(healthBar.percent, 0, 100, 100, 0) * 0.01)) - (150 * iconP2.scale.x) / 2 - iconOffset * 2 - 10;
 
 		if (health > 2)
 			health = 2;
 
-		if (healthBar.percent < 20)
+		if (healthBar.percent < 30)
+			iconP1.animation.curAnim.curFrame = 2;
+		else if (healthBar.percent < 70)
 			iconP1.animation.curAnim.curFrame = 1;
 		else
 			iconP1.animation.curAnim.curFrame = 0;
 
-		if (healthBar.percent > 80)
+		if (healthBar.percent > 70)
+			iconP2.animation.curAnim.curFrame = 2;
+		else if (healthBar.percent > 30)
 			iconP2.animation.curAnim.curFrame = 1;
 		else
 			iconP2.animation.curAnim.curFrame = 0;
