@@ -31,7 +31,7 @@
 		},		{
 
 			"speed": 0.05,
-			"portrait": "gf",
+			"portrait": "maki",
 			"boxState": "normal",
 			"expression": "talk",
 			"text": "...I wish I could kill you instead."

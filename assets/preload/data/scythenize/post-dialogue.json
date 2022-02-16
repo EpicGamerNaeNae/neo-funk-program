@@ -27,7 +27,7 @@
 			"text": "I know, I practice every day!"
 		},		{
 			"speed": 0.05,
-			"portrait": "bf",
+			"portrait": "maki",
 			"boxState": "normal",
 			"expression": "talk",
 			"text": "I can see that."
@@ -42,7 +42,13 @@
 			"portrait": "gf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "You may use the globe right behind you. If you touch it, you will be teleported to the next challenge in the Strawberry House."
+			"text": "You may use the globe right behind you. If you touch it,"
+		},	{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you will be teleported to the next challenge in the Strawberry House."
 		},		{
 			"speed": 0.05,
 			"portrait": "bf",
@@ -54,7 +60,7 @@
 			"portrait": "gf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "With that comment,  you’ve officially triggered half of the people playing this mod."
+			"text": "With that, you’ve officially triggered half of the people playing this mod."
 		},		{
 			"speed": 0.05,
 			"portrait": "bf",
@@ -66,7 +72,7 @@
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Nevermind... please just touch the damn globe so we can leave."
+			"text": "Nevermind... please just touch the damn \nglobe so we can leave."
 		},		{
 			"speed": 0.05,
 			"portrait": "bf",

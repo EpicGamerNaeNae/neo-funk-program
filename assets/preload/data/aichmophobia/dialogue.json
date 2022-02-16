@@ -14,7 +14,7 @@
 			"text": "..."
 		},		{
 			"speed": 0.05,
-			"portrait": "bf",
+			"portrait": "maki",
 			"boxState": "normal",
 			"expression": "talk",
 			"text": "Catch your breath if you must. We are far from done here..."
@@ -47,7 +47,7 @@
 			"portrait": "maki",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "This break’s officially over."
+			"text": "This break is officially over."
 		},		{
 			"speed": 0.05,
 			"portrait": "bf",
