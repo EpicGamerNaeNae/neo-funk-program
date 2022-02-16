@@ -1,22 +1,5 @@
 {
-	"dialogue": [
-		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "among us"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "deez nuts"
-		}
-	]
-}
-/*
+	/*
 Maki: It vexes me greatly that you’re still alive..
 
 Kokichi: Haha! We win! Looks like you can’t kill us, Maki Roll!
@@ -43,3 +26,21 @@ Shuichi: *he walked over to the globe and pressed his hand against it*
 
 Shuichi: WHOA!-*he vanished*
 */
+
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "among us"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "deez nuts"
+		}
+	]
+}

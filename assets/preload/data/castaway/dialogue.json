@@ -1,22 +1,5 @@
 {
-	"dialogue": [
-		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "among us"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "deez nuts"
-		}
-	]
-}
-/*
+	/*
 Shuichi: …
 
 Shuichi: Whoa…that was intense. This virtual world is more impressive than I thought.
@@ -44,3 +27,20 @@ Shuichi: Look, let’s just get this over with. I have other matters to attend t
 Gundham: My, aren’t we impatient? Very well…I accept your challenge!
 
 */
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "among us"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "deez nuts"
+		}
+	]
+}

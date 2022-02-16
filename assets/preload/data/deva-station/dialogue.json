@@ -1,22 +1,5 @@
 {
-	"dialogue": [
-		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "among us"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "deez nuts"
-		}
-	]
-}
-/*
+	/*
 Shuichi: Not gonna lie…although your appearance is questionable, you might be my favorite challenger yet.
 
 Gundham: Wait, what’s wrong with my appearance? 
@@ -38,3 +21,20 @@ Gundham: Time to end your winning streak!
 Gundham: I will emerge victorious, and you will be no more than a memory!
 
 */
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "among us"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "deez nuts"
+		}
+	]
+}

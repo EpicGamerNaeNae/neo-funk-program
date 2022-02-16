@@ -1,22 +1,5 @@
 {
-	"dialogue": [
-		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "among us"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "deez nuts"
-		}
-	]
-}
-/*
+	/*
 Maki: Nicely done. You get to live for a few more seconds.
 Shuichi: …
 
@@ -43,3 +26,20 @@ Shuichi: I fucking hate you, Kokichi.
 Kokichi: I know~
 
 */
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "among us"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "deez nuts"
+		}
+	]
+}

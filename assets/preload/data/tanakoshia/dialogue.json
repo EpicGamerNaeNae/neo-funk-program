@@ -1,22 +1,5 @@
 {
-	"dialogue": [
-		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "among us"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "deez nuts"
-		}
-	]
-}
-/*
+	/*
 Gundham: Finally, a worthy opponent! Our battle will go down in history!
 
 Shuichi: I’m glad you’re enjoying yourself.
@@ -42,3 +25,20 @@ Kokichi: Mhm…let’s just start this song.
 Shuichi: I couldn’t agree more.
 
 */
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "among us"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "deez nuts"
+		}
+	]
+}
