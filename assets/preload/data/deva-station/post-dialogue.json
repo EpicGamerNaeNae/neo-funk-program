@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "among us"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "deez nuts"
+		}
+	]
+}
+/*
+Shuichi: Man, these songs just get harder and harder.
+
+Kokichi: That’s the point of the game, Shumai. You best be prepared, as these next few challenges will be just as difficult.
+
+Shuichi: At least we’re halfway through this madness..
+
+Gundham: I...I've never lost before!
+
+Gundham: This is impossible! How did you beat me?!
+
+Shuichi: By singing better than you?..
+
+Gundham: You may have bested me in battle THIS time, Shuichi...but you won't be so lucky the next time we meet!
+
+Shuichi: W-wait...I have to fight you AGAIN?!
+
+Kokichi: No, that's just what he's programmed to say once you've beat his ass successfully.
+
+Shuichi: Oh...okay.
+
+Kokichi: Now come, Shumai. I must transport us to your next challenge.
+
+Shuichi: Finally! I'm almost out of here...
+
+*/
