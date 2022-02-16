@@ -1,45 +1,84 @@
 {
-	/*
-Maki: Nicely done. You get to live for a few more seconds.
-Shuichi: …
-
-Maki: Catch your breath if you must. We are far from done here…
-
-Kokichi: For an assassin, you’re pretty reasonable.
-
-Maki: I’m an assassin, not a monster.
-
-Kokichi: Quite frankly, I don’t see the difference. Monsters kill, assassins also kill.
-
-Maki: …
-
-Maki: This break’s officially over.
-
-Shuichi: Hold on, what?!
-
-Maki: You heard me, Shuichi. Don’t make me repeat myself!
-
-Shuichi: *sigh* 
-
-Shuichi: I fucking hate you, Kokichi.
-
-Kokichi: I know~
-
-*/
 	"dialogue": [
 		{
 			"speed": 0.05,
-			"portrait": "bf",
+			"portrait": "maki",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "among us"
-		},
-		{
+			"text": " Nicely done. You get to live for a few more seconds."
+		},		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "deez nuts"
+			"text": "..."
+		},		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Catch your breath if you must. We are far from done here..."
+		},		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "For an assassin, you’re pretty reasonable."
+		},		{
+			"speed": 0.05,
+			"portrait": "maki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I’m an assassin, not a monster."
+		},		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Quite frankly, I don’t see the difference. Monsters kill, assassins also kill."
+		},		{
+			"speed": 0.05,
+			"portrait": "maki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},		{
+			"speed": 0.05,
+			"portrait": "maki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This break’s officially over."
+		},		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hold on, what?!"
+		},		{
+			"speed": 0.05,
+			"portrait": "maki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You heard me, Shuichi. Don’t make me repeat myself!"
+		},		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*sigh*"
+		},	{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I fucking hate you, Kokichi."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I know~"
 		}
 	]
 }
