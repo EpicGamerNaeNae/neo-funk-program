@@ -1,44 +1,78 @@
 {
-	/*
-Gundham: Finally, a worthy opponent! Our battle will go down in history!
-
-Shuichi: I’m glad you’re enjoying yourself.
-
-Gundham: Let us cause an uproar with our majestic vocals!
-
-Shuichi: If you say so..
-
-Kokichi: Wow! Way to kill the meme, Shumai!
-
-Shuichi: Meme? What meme? There is no "meme".
-
-Kokichi: …
-
-Gundham: Are you okay, grape-hair boy?
-
-Kokichi: Nah, I’m good…
-
-Shuichi: You sure?
-
-Kokichi: Mhm…let’s just start this song.
-
-Shuichi: I couldn’t agree more.
-
-*/
 	"dialogue": [
 		{
+			"speed": 0.05,
+			"portrait": "gundham",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Finally, a worthy opponent! Our battle will go down in history!"
+		},		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "among us"
+			"text": "I’m glad you’re enjoying yourself."
+		},		{
+			"speed": 0.05,
+			"portrait": "gundham",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Let us cause an uproar with our majestic vocals!"
+		},		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If you say so.."
+		},		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wow! Way to kill the meme, Shumai!"
+		},		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Meme? What meme? There is no meme."
+		},		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},		{
+			"speed": 0.05,
+			"portrait": "gundham",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Are you okay, grape-hair boy?"
+		},		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nah, I’m good..."
+		},		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You sure?"
+		},		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Mhm... let’s just start this song."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "deez nuts"
+			"text": "I couldn’t agree more."
 		}
 	]
 }

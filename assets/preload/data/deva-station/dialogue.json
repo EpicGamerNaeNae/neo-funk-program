@@ -1,40 +1,66 @@
 {
-	/*
-Shuichi: Not gonna lie…although your appearance is questionable, you might be my favorite challenger yet.
-
-Gundham: Wait, what’s wrong with my appearance? 
-
-Kokichi: You look like something Monotaro made for his art class...
-
-Gundham: You will regret mocking my appearance with such nonsense!
-
-Shuichi: Do you ever shut the hell up, Kokichi?!
-
-Kokichi: No, I wasn’t programmed with that function.
-
-Shuichi: You’re gonna get me killed in this world.
-
-Kokichi: I missed the part where that’s my problem.
-
-Gundham: Time to end your winning streak! 
-
-Gundham: I will emerge victorious, and you will be no more than a memory!
-
-*/
 	"dialogue": [
 		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "among us"
-		},
-		{
+			"text": "Not gonna lie... although your appearance is questionable, you might be my favorite challenger yet."
+		},		{
+			"speed": 0.05,
+			"portrait": "gundham",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wait, what’s wrong with my appearance? "
+		},		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You look like something Monotaro made for his art class..."
+		},		{
+			"speed": 0.05,
+			"portrait": "gundham",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You will regret mocking my appearance with such nonsense!"
+		},		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "deez nuts"
+			"text": "Do you ever shut the hell up, Kokichi?!"
+		},		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No, I wasn’t programmed with that function."
+		},		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You’re gonna get me killed in this world."
+		},		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I missed the part where that’s my problem."
+		},		{
+			"speed": 0.05,
+			"portrait": "gundham",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Time to end your winning streak! "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gundham",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I will emerge victorious, and you will be no more than a memory!"
 		}
 	]
 }

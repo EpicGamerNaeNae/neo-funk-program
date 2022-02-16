@@ -1,44 +1,78 @@
 {
-	/*
-Shuichi: Man, these songs just get harder and harder.
-
-Kokichi: That’s the point of the game, Shumai. You best be prepared, as these next few challenges will be just as difficult.
-
-Shuichi: At least we’re halfway through this madness..
-
-Gundham: I...I've never lost before!
-
-Gundham: This is impossible! How did you beat me?!
-
-Shuichi: By singing better than you?..
-
-Gundham: You may have bested me in battle THIS time, Shuichi...but you won't be so lucky the next time we meet!
-
-Shuichi: W-wait...I have to fight you AGAIN?!
-
-Kokichi: No, that's just what he's programmed to say once you've beat his ass successfully.
-
-Shuichi: Oh...okay.
-
-Kokichi: Now come, Shumai. I must transport us to your next challenge.
-
-Shuichi: Finally! I'm almost out of here...
-
-*/
 	"dialogue": [
 		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "among us"
+			"text": "Man, these songs just get harder and harder."
+		},		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That’s the point of the game, Shumai. You best be prepared, as these next few challenges will be just as difficult."
+		},		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "At least we’re halfway through this madness.."
+		},		{
+			"speed": 0.05,
+			"portrait": "gundham",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I... I've never lost before!"
+		},		{
+			"speed": 0.05,
+			"portrait": "gundham",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This is impossible! How did you beat me?!"
+		},		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "By singing better than you?.."
+		},		{
+			"speed": 0.05,
+			"portrait": "gundham",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You may have bested me in battle THIS time, Shuichi...but you won't be so lucky the next time we meet!"
+		},		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "W-wait...I have to fight you AGAIN?!"
+		},		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No, that's just what he's programmed to say once you've beat his ass successfully."
+		},		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh...okay."
+		},		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Now come, Shumai. I must transport us to your next challenge."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "deez nuts"
+			"text": "Finally! I'm almost out of here..."
 		}
 	]
 }

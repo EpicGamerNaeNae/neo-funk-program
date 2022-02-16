@@ -1,46 +1,85 @@
 {
-	/*
-Shuichi: …
-
-Shuichi: Whoa…that was intense. This virtual world is more impressive than I thought.
-
-Shuichi: I would enjoy this place a whole lot more if I wasn’t trapped here against my will..
-
-Kokichi: *pops into existence*
-
-Kokichi: Welcome to Strawberry House. Here, you will face your third challenger.
-
-Shuichi: Alrighty then…who’s next on the list?
-
-Gundham: That would be me, Mr. Saihara.
-
-Shuichi: FINALLY! Someone got my damn name right!
-
-Kokichi: There he is…Gundham Tanaka, the Ultimate Breeder.
-
-Shuichi: The Ultimate WHAT?!
-
-Kokichi: He’s an animal breeder, calm down.
-
-Shuichi: Look, let’s just get this over with. I have other matters to attend to, once I leave this place.
-
-Gundham: My, aren’t we impatient? Very well…I accept your challenge!
-
-*/
 	"dialogue": [
 		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "among us"
-		},
-		{
+			"text": "..."
+		},		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "deez nuts"
+			"text": "Whoa... that was intense. This virtual world is more impressive than I thought."
+		},		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I would enjoy this place a whole lot more if I wasn’t trapped here against my will.."
+		},		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*pops into existence*"
+		},		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Welcome to Strawberry House. Here, you will face your third challenger."
+		},		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alrighty then... who’s next on the list?"
+		},		{
+			"speed": 0.05,
+			"portrait": "gundham",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That would be me, Mr. Saihara."
+		},		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "FINALLY! Someone got my damn name right!"
+		},		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "There he is... Gundham Tanaka, the Ultimate Breeder."
+		},		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The Ultimate WHAT?!"
+		},		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He’s an animal breeder, calm down."
+		},		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Look, let’s just get this over with. I have other matters to attend to, once I leave this place."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gundham",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "My, aren’t we impatient? Very well... I accept your challenge!
+			"
 		}
 	]
 }
