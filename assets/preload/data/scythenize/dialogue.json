@@ -1,46 +1,103 @@
 {
 	"dialogue": [
 		{
-			/*
-Maki: Nicely done. You get to live for a few more seconds.
 
-Shuichi: …
-
-Maki: Catch your breath if you must. We are far from done here…
-
-Kokichi: For an assassin, you’re pretty reasonable.
-
-Maki: I’m an assassin, not a monster.
-
-Kokichi: Quite frankly, I don’t see the difference. Monsters kill, assassins also kill.
-
-Maki: …
-
-Maki: This break’s officially over.
-
-Shuichi: Hold on, what?!
-
-Maki: You heard me, Shuichi. Don’t make me repeat myself!
-
-Shuichi: *sigh* 
-
-Shuichi: I fucking hate you, Kokichi.
-
-Kokichi: I know~
-
-*/
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "among us"
+			"text": "Oh thank goodness, we’re almost done here.."
+		},		{
+
+			"speed": 0.05,
+			"portrait": "maki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},		{
+
+			"speed": 0.05,
+			"portrait": "maki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I must admit, you’re a formidable foe."
+		},		{
+
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Haha! He’s beating your ass!"
+		},		{
+
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...I wish I could kill you instead."
+		},		{
+
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But that goes against your programming, Maki Roll~"
+		},		{
+
+			"speed": 0.05,
+			"portrait": "maki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},		{
+
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Come on, let Shumai beat your ass again so we can leave."
+		},		{
+
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Grrr! Why won’t you just shut up and die?!"
+		},		{
+
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Because I was programmed to get on your nerves, bitch!"
+		},		{
+
+			"speed": 0.05,
+			"portrait": "maki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},		{
+
+			"speed": 0.05,
+			"portrait": "maki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Shuichi..."
+		},		{
+
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Let me guess... you’re gonna take your anger out on me now?"
 		},
 		{
 			"speed": 0.05,
-			"portrait": "bf",
+			"portrait": "maki",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "deez nuts"
+			"text": "I’m glad you understand."
 		}
 	]
 }

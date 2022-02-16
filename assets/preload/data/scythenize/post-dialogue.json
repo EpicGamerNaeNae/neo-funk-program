@@ -1,46 +1,85 @@
 {
-	/*
-Maki: It vexes me greatly that you’re still alive..
-
-Kokichi: Haha! We win! Looks like you can’t kill us, Maki Roll!
-
-Maki: My god, you’re super annoying.
-
-Kokichi: I know, I practice every day!
-
-Maki: I can see that.
-
-Shuichi: Okay! Where’s the next challenge? I wanna get the hell out of here already.
-
-Maki: You may use the globe right behind you. If you touch it, you will be teleported to the next challenge in the Strawberry House.
-
-Shuichi: The…Strawberry House? Sounds stupid, if you ask me.
-
-Kokichi: With that comment,  you’ve officially triggered half of the people playing this mod.
-
-Shuichi: What are you talking about, Kokichi?
-
-Kokichi: Nevermind…please just touch the damn globe so we can leave.
-
-Shuichi: *he walked over to the globe and pressed his hand against it*
-
-Shuichi: WHOA!-*he vanished*
-*/
-
 	"dialogue": [
 		{
+			"speed": 0.05,
+			"portrait": "maki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It vexes me greatly that you’re still alive.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Haha! We win! Looks like you can’t kill us, Maki Roll!"
+		},		{
+			"speed": 0.05,
+			"portrait": "maki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "My god, you’re super annoying."
+		},		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I know, I practice every day!"
+		},		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "among us"
+			"text": "I can see that."
+		},		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay! Where’s the next challenge? I wanna get the hell out of here already."
+		},		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You may use the globe right behind you. If you touch it, you will be teleported to the next challenge in the Strawberry House."
+		},		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The... Strawberry House? Sounds stupid, if you ask me."
+		},		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "With that comment,  you’ve officially triggered half of the people playing this mod."
+		},		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What are you talking about, Kokichi?"
+		},		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nevermind... please just touch the damn globe so we can leave."
+		},		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*he walked over to the globe and pressed his hand against it*"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "deez nuts"
+			"text": "WHOA!-*he vanished*"
 		}
 	]
 }
