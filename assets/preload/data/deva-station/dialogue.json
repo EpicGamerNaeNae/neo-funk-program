@@ -1,72 +1,81 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "Not gonna lie..."
-		},		{
-			"speed": 0.05,
-			"portrait": "bf",
+			"text": "Not gonna lie...",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "although your appearance is questionable, you might be my favorite challenger yet."
-		},		{
 			"speed": 0.05,
-			"portrait": "gundham",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Wait, what’s wrong with my appearance? "
-		},		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "You look like something Monotaro made for his art class..."
-		},		{
-			"speed": 0.05,
-			"portrait": "gundham",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "You will regret mocking my appearance with such nonsense!"
-		},		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Do you ever shut the hell up, Kokichi?!"
-		},		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "No, I wasn’t programmed with that function."
-		},		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "You’re gonna get me killed in this world."
-		},		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "I missed the part where that’s my problem."
-		},		{
-			"speed": 0.05,
-			"portrait": "gundham",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Time to end your winning streak! "
+			"portrait": "bf"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "gundham",
+			"expression": "excited",
+			"text": "although your appearance is questionable, you might be my favorite challenger yet.",
 			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "Wait, what’s wrong with my appearance? ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gundham"
+		},
+		{
+			"expression": "confused",
+			"text": "You look like something Monotaro made for his art class...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "pissed",
+			"text": "You will regret mocking my appearance with such nonsense!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gundham"
+		},
+		{
+			"expression": "pissed",
+			"text": "Do you ever shut the hell up, Kokichi?!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "No, I wasn’t programmed with that function.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
 			"expression": "talk",
-			"text": "I will emerge victorious, and you will be no more than a memory!"
+			"text": "You’re gonna get me killed in this world.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "I missed the part where that’s my problem.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "excited",
+			"text": "Time to end your winning streak! ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gundham"
+		},
+		{
+			"expression": "pissed",
+			"text": "I will emerge victorious, and you will be no more than a memory!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gundham"
 		}
 	]
 }
