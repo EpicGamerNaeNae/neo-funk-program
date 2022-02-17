@@ -4,71 +4,71 @@
 			"expression": "excited",
 			"text": "Gotta hand it to ya…... that was intense.",
 			"boxState": "normal",
-			"portrait": "bf",
-			"speed": 0.05
+			"speed": 0.05,
+			"portrait": "bf"
 		},
 		{
 			"expression": "excited",
 			"text": "How do you keep winning?! You’re a freakin’ NOOB!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "makoto"
+		},
+		{
+			"expression": "pissed",
+			"text": "Awwww, is Mr. Naegi gonna cry?",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "makoto",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "Uh oh...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "You know what?!",
 			"boxState": "normal",
 			"portrait": "makoto",
 			"speed": 0.05
 		},
 		{
 			"expression": "talk",
-			"text": "Awwww, is Mr. Naegi gonna cry?",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "gf"
-		},
-		{
-			"expression": "excited",
-			"text": "...",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "makoto"
-		},
-		{
-			"expression": "shocked",
-			"text": "Uh oh...",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
-		},
-		{
-			"expression": "pissed",
-			"text": "You know what?!",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "makoto"
-		},
-		{
-			"expression": "talk",
 			"text": "I'm done playing games with you!",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "makoto"
+			"portrait": "makoto",
+			"speed": 0.05
 		},
 		{
 			"expression": "confused",
 			"text": "Oh dear god..",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
 			"text": "TIME TO GO ALL OUT!",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "makoto"
+			"portrait": "makoto",
+			"speed": 0.05
 		},
 		{
 			"expression": "pissed",
 			"text": "Dammit, Kokichi! Now, look at what you've done!",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.05
 		}
 	]
 }

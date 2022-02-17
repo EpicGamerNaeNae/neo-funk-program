@@ -1,78 +1,88 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
-			"portrait": "gundham",
+			"expression": "excited",
+			"text": "Finally, a worthy opponent! Our battle will go down in history!",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "Finally, a worthy opponent! Our battle will go down in history!"
-		},		{
 			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "I’m glad you’re enjoying yourself."
-		},		{
-			"speed": 0.05,
-			"portrait": "gundham",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Let us cause an uproar with our majestic vocals!"
-		},		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "If you say so.."
-		},		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Wow! Way to kill the meme, Shumai!"
-		},		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Meme? What meme? There is no meme."
-		},		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "..."
-		},		{
-			"speed": 0.05,
-			"portrait": "gundham",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Are you okay, grape-hair boy?"
-		},		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Nah, I’m good..."
-		},		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "You sure?"
-		},		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Mhm... let’s just start this song."
+			"portrait": "gundham"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "I couldn’t agree more."
+			"text": "I’m glad you’re enjoying yourself.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "Let us cause an uproar with our majestic vocals!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gundham"
+		},
+		{
+			"expression": "confused",
+			"text": "If you say so..",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Wow! Way to kill the meme, Shumai!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "shocked",
+			"text": "Meme? What meme? There is no meme.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "shocked",
+			"text": "Are you okay, grape-hair boy?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gundham"
+		},
+		{
+			"expression": "talk",
+			"text": "Nah, I’m good...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "You sure?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Mhm... let’s just start this song.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "excited",
+			"text": "I couldn’t agree more.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
 		}
 	]
 }

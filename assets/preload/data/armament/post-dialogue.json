@@ -4,85 +4,85 @@
 			"expression": "excited",
 			"text": "Dammit, you win!",
 			"boxState": "normal",
-			"portrait": "makoto",
-			"speed": 0.05
+			"speed": 0.05,
+			"portrait": "makoto"
 		},
 		{
 			"expression": "shocked",
 			"text": "Phew! That was fucking close...",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
 			"text": "You nearly died, Shumai. ",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "gf"
+			"portrait": "gf",
+			"speed": 0.05
 		},
 		{
-			"expression": "talk",
+			"expression": "confused",
 			"text": "I would’ve lost all my respect for you if you were to lose to this baby-faced freak.",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "gf"
+			"portrait": "gf",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
 			"text": "Just get out of here already...\nyour next challenge is inside the school.",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "makoto"
+			"portrait": "makoto",
+			"speed": 0.05
 		},
 		{
 			"expression": "confused",
 			"text": "You mean that school isn’t just a prop?",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
 			"text": "Of course it is!",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "gf"
+			"portrait": "gf",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
 			"text": "We’re just gonna teleport inside it.",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "gf"
+			"portrait": "gf",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
 			"text": "Oh.",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
 			"expression": "confused",
 			"text": "That makes things even more confusing but whatever.",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
 			"expression": "excited",
 			"text": "Bye! Get out now!",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "makoto"
+			"portrait": "makoto",
+			"speed": 0.05
 		},
 		{
 			"expression": "confused",
 			"text": "Okay jeez!",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.05
 		}
 	]
 }

@@ -1,134 +1,151 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
-			"portrait": "bf",
+			"expression": "excited",
+			"text": "So... this is the school, huh?",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "So... this is the school, huh?"
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
-			"speed": 0.05,
+			"expression": "talk",
+			"text": "Yup. We were teleported into the school’s library for your next challenge.",
+			"boxState": "normal",
 			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Yup. We were teleported into the school’s library for your next challenge."
-		},		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Seems simple enough-"
-		},		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "I wouldn’t get your hopes up, it only gets harder from here."
-		},		{
-			"speed": 0.05,
-			"portrait": "maki",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "..."
-		},		{
-			"speed": 0.05,
-			"portrait": "maki",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "State your name."
-		},		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Shuichi Saihara…"
-		},		{
-			"speed": 0.05,
-			"portrait": "maki",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Hmm... interesting name."
-		},		{
-			"speed": 0.05,
-			"portrait": "maki",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "PREPARE TO DIE!"
-		},		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "WHAT?!"
-		},		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Oh yeah, you’re battling the assassin now."
-		},		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "WHAT THE FUCK?! I THOUGHT THIS WAS A SINGING BATTLE!"
-		},		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Calm down, Shumai! She can’t hurt you unless you lose."
-		},		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "...I think."
-		},		{
-			"speed": 0.05,
-			"portrait": "maki",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "*pulls out knife*"
-		},{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "*gulp*"
-		},{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "I must warn you... she has a mechanic of her own."
-		},{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "What do you mean?"
-		},{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "I believe it’s called the “Rhythm Dagger”? I heard those things could be troublesome…"
+			"speed": 0.05
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "Rhythm Dagger..?!"
+			"text": "Seems simple enough-",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
-			"speed": 0.05,
-			"portrait": "maki",
+			"expression": "pissed",
+			"text": "I wouldn’t get your hopes up, it only gets harder from here.",
 			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "maki",
+			"speed": 0.05
+		},
+		{
 			"expression": "talk",
-			"text": "These daggers of mine should put some pep in your step, hehe…"
+			"text": "State your name.",
+			"boxState": "normal",
+			"portrait": "maki",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Shuichi Saihara…",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Hmm... interesting name.",
+			"boxState": "normal",
+			"portrait": "maki",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "PREPARE TO DIE!",
+			"boxState": "normal",
+			"portrait": "maki",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "WHAT?!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Oh yeah, you’re battling the assassin now.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "WHAT THE FUCK?! I THOUGHT THIS WAS A SINGING BATTLE!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "Calm down, Shumai! She can’t hurt you unless you lose.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "...I think.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "*pulls out knife*",
+			"boxState": "normal",
+			"portrait": "maki",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "*gulp*",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "I must warn you... she has a mechanic of her own.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "What do you mean?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "I believe it’s called the “Rhythm Dagger”? I heard those things could be troublesome…",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "Rhythm Dagger..?!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "These daggers of mine should put some pep in your step, hehe…",
+			"boxState": "normal",
+			"portrait": "maki",
+			"speed": 0.05
 		}
 	]
 }

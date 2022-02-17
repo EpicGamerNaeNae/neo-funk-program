@@ -1,84 +1,95 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "..."
-		},		{
-			"speed": 0.05,
-			"portrait": "bf",
+			"text": "...",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "Whoa... that was intense. This virtual world is more impressive than I thought."
-		},		{
 			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "I would enjoy this place a whole lot more if I wasn’t trapped here against my will.."
-		},		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "*pops into existence*"
-		},		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Welcome to Strawberry House. Here, you will face your third challenger."
-		},		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Alrighty then... who’s next on the list?"
-		},		{
-			"speed": 0.05,
-			"portrait": "gundham",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "That would be me, Mr. Saihara."
-		},		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "FINALLY! Someone got my damn name right!"
-		},		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "There he is... Gundham Tanaka, the Ultimate Breeder."
-		},		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "The Ultimate WHAT?!"
-		},		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "He’s an animal breeder, calm down."
-		},		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Look, let’s just get this over with."
+			"portrait": "bf"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "gundham",
+			"expression": "confused",
+			"text": "Whoa... that was intense. This virtual world is more impressive than I thought.",
 			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "I would enjoy this place a whole lot more if I wasn’t trapped here against my will..",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
 			"expression": "talk",
-			"text": "My, aren’t we impatient? Very well...\n I accept your challenge!"
+			"text": "*pops into existence*",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Welcome to Strawberry House. Here, you will face your third challenger.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Alrighty then... who’s next on the list?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "That would be me, Mr. Saihara.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gundham"
+		},
+		{
+			"expression": "pissed",
+			"text": "FINALLY! Someone got my damn name right!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "There he is... Gundham Tanaka, the Ultimate Breeder.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "shocked",
+			"text": "The Ultimate WHAT?!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "He’s an animal breeder, calm down.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Look, let’s just get this over with.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "My, aren’t we impatient? Very well...\n I accept your challenge!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gundham"
 		}
 	]
 }

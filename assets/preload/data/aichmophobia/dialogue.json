@@ -1,84 +1,95 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
+			"expression": "excited",
+			"text": " Nicely done. You get to live for a few more seconds.",
+			"boxState": "normal",
 			"portrait": "maki",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": " Nicely done. You get to live for a few more seconds."
-		},		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "..."
-		},		{
-			"speed": 0.05,
-			"portrait": "maki",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Catch your breath if you must. We are far from done here..."
-		},		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "For an assassin, you’re pretty reasonable."
-		},		{
-			"speed": 0.05,
-			"portrait": "maki",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "I’m an assassin, not a monster."
-		},		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Quite frankly, I don’t see the difference. Monsters kill, assassins also kill."
-		},		{
-			"speed": 0.05,
-			"portrait": "maki",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "..."
-		},		{
-			"speed": 0.05,
-			"portrait": "maki",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "This break is officially over."
-		},		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Hold on, what?!"
-		},		{
-			"speed": 0.05,
-			"portrait": "maki",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "You heard me, Shuichi. Don’t make me repeat myself!"
-		},		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "*sigh*"
-		},	{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "I fucking hate you, Kokichi."
+			"speed": 0.05
 		},
 		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "I know~"
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Catch your breath if you must. We are far from done here...",
+			"boxState": "normal",
+			"portrait": "maki",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "For an assassin, you’re pretty reasonable.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "I’m an assassin, not a monster.",
+			"boxState": "normal",
+			"portrait": "maki",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "Quite frankly, I don’t see the difference. Monsters kill, assassins also kill.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "maki",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "This break is officially over.",
+			"boxState": "normal",
+			"portrait": "maki",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Hold on, what?!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "You heard me, Shuichi. Don’t make me repeat myself!",
+			"boxState": "normal",
+			"portrait": "maki",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "*sigh*",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "I fucking hate you, Kokichi.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "I know~",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
 		}
 	]
 }

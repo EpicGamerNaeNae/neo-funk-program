@@ -42,12 +42,39 @@ class DialogueBox extends FlxSpriteGroup
 
 		switch (PlayState.SONG.song.toLowerCase())
 		{
-			case 'senpai':
-				FlxG.sound.playMusic(Paths.music('Lunchbox'), 0);
+			case 'shumai trainer':
+				FlxG.sound.playMusic(Paths.music('tutorial'), 0);
 				FlxG.sound.music.fadeIn(1, 0, 0.8);
-			case 'thorns':
-				FlxG.sound.playMusic(Paths.music('LunchboxScary'), 0);
+
+			case 'beautiful-peace':
+				FlxG.sound.playMusic(Paths.music('week1-1'), 0);
 				FlxG.sound.music.fadeIn(1, 0, 0.8);
+			case 'eggin-it':
+				FlxG.sound.playMusic(Paths.music('week1-1'), 0);
+				FlxG.sound.music.fadeIn(1, 0, 0.8);
+			case 'armament':
+				FlxG.sound.playMusic(Paths.music('week1-2'), 0);
+				FlxG.sound.music.fadeIn(1, 0, 0.8);
+
+			case 'corpseplay':
+					FlxG.sound.playMusic(Paths.music('week2-1'), 0);
+					FlxG.sound.music.fadeIn(1, 0, 0.8);
+			case 'aichmophobia':
+				FlxG.sound.playMusic(Paths.music('week2-2'), 0);
+				FlxG.sound.music.fadeIn(1, 0, 0.8);
+			case 'scythenize':
+				FlxG.sound.playMusic(Paths.music('week2-3'), 0);
+				FlxG.sound.music.fadeIn(1, 0, 0.8);
+
+			case 'castaway':
+				FlxG.sound.playMusic(Paths.music('week3-1'), 0);
+				FlxG.sound.music.fadeIn(1, 0, 0.8);
+			case 'tanakoshia':
+				FlxG.sound.playMusic(Paths.music('week3-2'), 0);
+				FlxG.sound.music.fadeIn(1, 0, 0.8);
+			case 'deva-station':
+					FlxG.sound.playMusic(Paths.music('week3-3'), 0);
+					FlxG.sound.music.fadeIn(1, 0, 0.8);
 		}
 
 		bgFade = new FlxSprite(-200, -200).makeGraphic(Std.int(FlxG.width * 1.3), Std.int(FlxG.height * 1.3), 0xFFB3DFd8);

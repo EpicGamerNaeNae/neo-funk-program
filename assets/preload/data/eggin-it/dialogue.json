@@ -4,36 +4,36 @@
 			"expression": "excited",
 			"text": "Pfft…is that the best you could do?",
 			"boxState": "normal",
-			"portrait": "bf",
-			"speed": 0.05
-		},
-		{
-			"expression": "talk",
-			"text": "My my, Shumai’s getting cocky.",
-			"boxState": "normal",
-			"portrait": "gf",
-			"speed": 0.05
-		},
-		{
-			"expression": "confused",
-			"text": "I was just warming up!",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "makoto"
-		},
-		{
-			"expression": "talk",
-			"text": "Yeah right. Getting past you is going to be a breeze!",
-			"boxState": "normal",
 			"speed": 0.05,
 			"portrait": "bf"
 		},
 		{
 			"expression": "excited",
-			"text": "...you’re gonna regret saying that.",
+			"text": "My my, Shumai’s getting cocky.",
 			"boxState": "normal",
 			"speed": 0.05,
-			"portrait": "makoto"
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "I was just warming up!",
+			"boxState": "normal",
+			"portrait": "makoto",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah right. Getting past you is going to be a breeze!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "...you’re gonna regret saying that.",
+			"boxState": "normal",
+			"portrait": "makoto",
+			"speed": 0.05
 		}
 	]
 }

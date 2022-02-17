@@ -1,91 +1,102 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
-			"portrait": "maki",
+			"expression": "excited",
+			"text": "It vexes me greatly that you’re still alive..",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "It vexes me greatly that you’re still alive.."
+			"portrait": "maki",
+			"speed": 0.05
 		},
 		{
-			"speed": 0.05,
+			"expression": "confused",
+			"text": "Haha! We win! Looks like you can’t kill us, Maki Roll!",
+			"boxState": "normal",
 			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Haha! We win! Looks like you can’t kill us, Maki Roll!"
-		},		{
-			"speed": 0.05,
-			"portrait": "maki",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "My god, you’re super annoying."
-		},		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "I know, I practice every day!"
-		},		{
-			"speed": 0.05,
-			"portrait": "maki",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "I can see that."
-		},		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Okay! Where’s the next challenge? I wanna get the hell out of here already."
-		},		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "You may use the globe right behind you. If you touch it,"
-		},	{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "you will be teleported to the next challenge in the Strawberry House."
-		},		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "The... Strawberry House? Sounds stupid, if you ask me."
-		},		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "With that, you’ve officially triggered half of the people playing this mod."
-		},		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "What are you talking about, Kokichi?"
-		},		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Nevermind... please just touch the damn \nglobe so we can leave."
-		},		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "*he walked over to the globe and pressed his hand against it*"
+			"speed": 0.05
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
+			"expression": "pissed",
+			"text": "My god, you’re super annoying.",
 			"boxState": "normal",
+			"portrait": "maki",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "I know, I practice every day!",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "I can see that.",
+			"boxState": "normal",
+			"portrait": "maki",
+			"speed": 0.05
+		},
+		{
 			"expression": "talk",
-			"text": "WHOA!-*he vanished*"
+			"text": "Okay! Where’s the next challenge? I wanna get the hell out of here already.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "You may use the globe right behind you. If you touch it,",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "you will be teleported to the next challenge in the Strawberry House.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "The... Strawberry House? Sounds stupid, if you ask me.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "With that, you’ve officially triggered half of the people playing this mod.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "What are you talking about, Kokichi?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "Nevermind... please just touch the damn \nglobe so we can leave.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "*he walked over to the globe and pressed his hand against it*",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "WHOA!-*he vanished*",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
 		}
 	]
 }
