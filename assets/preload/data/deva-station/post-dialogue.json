@@ -1,90 +1,102 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
+			"expression": "confused",
+			"text": "Man, these songs just get harder and harder.",
+			"boxState": "normal",
 			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Man, these songs just get harder and harder."
-		},		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "That’s the point of the game, Shumai. You best be prepared,"
-		},		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "these next few challenges will be just as difficult."
-		},		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "At least we’re halfway through this madness.."
-		},		{
-			"speed": 0.05,
-			"portrait": "gundham",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "I... I've never lost before!"
-		},		{
-			"speed": 0.05,
-			"portrait": "gundham",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "This is impossible! How did you beat me?!"
-		},		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "By singing better than you?.."
-		},		{
-			"speed": 0.05,
-			"portrait": "gundham",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "You may have bested me in battle THIS time, Shuichi..."
-		},	{
-			"speed": 0.05,
-			"portrait": "gundham",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "but you won't be so lucky the next time we meet!"
-		},		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "W-wait...I have to fight you AGAIN?!"
-		},		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "No, that's just what he's programmed to say once you've beat his ass successfully."
-		},		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Oh...okay."
-		},		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Now come, Shumai. I must transport us to your next challenge."
+			"speed": 0.05
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
+			"expression": "confused",
+			"text": "That’s the point of the game, Shumai. You best be prepared,",
 			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "these next few challenges will be just as difficult.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "At least we’re halfway through this madness..",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "I... I've never lost before!",
+			"boxState": "normal",
+			"portrait": "gundham",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "This is impossible! How did you beat me?!",
+			"boxState": "normal",
+			"portrait": "gundham",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "By singing better than you?..",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "You may have bested me in battle THIS time, Shuichi...",
+			"boxState": "normal",
+			"portrait": "gundham",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "but you won't be so lucky the next time we meet!",
+			"boxState": "normal",
+			"portrait": "gundham",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "W-wait...I have to fight you AGAIN?!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
 			"expression": "talk",
-			"text": "Finally! I'm almost out of here..."
+			"text": "No, that's just what he's programmed to say once you've beat his ass successfully.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "Oh...okay.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "Now come, Shumai. I must transport us to your next challenge.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Finally! I'm almost out of here...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
 		}
 	]
 }

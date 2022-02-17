@@ -4,92 +4,92 @@
 			"expression": "talk",
 			"text": "...",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
 			"expression": "confused",
 			"text": "Whoa... that was intense. This virtual world is more impressive than I thought.",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
 			"expression": "excited",
 			"text": "I would enjoy this place a whole lot more if I wasn’t trapped here against my will..",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
 			"text": "*pops into existence*",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "gf"
+			"portrait": "gf",
+			"speed": 0.05
 		},
 		{
-			"expression": "talk",
+			"expression": "confused",
 			"text": "Welcome to Strawberry House. Here, you will face your third challenger.",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "gf"
+			"portrait": "gf",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
 			"text": "Alrighty then... who’s next on the list?",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
 			"text": "That would be me, Mr. Saihara.",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "gundham"
+			"portrait": "gundham",
+			"speed": 0.05
 		},
 		{
 			"expression": "pissed",
 			"text": "FINALLY! Someone got my damn name right!",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
 			"text": "There he is... Gundham Tanaka, the Ultimate Breeder.",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "gf"
+			"portrait": "gf",
+			"speed": 0.05
 		},
 		{
 			"expression": "shocked",
 			"text": "The Ultimate WHAT?!",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
-			"expression": "talk",
+			"expression": "shocked",
 			"text": "He’s an animal breeder, calm down.",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "gf"
+			"portrait": "gf",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
 			"text": "Look, let’s just get this over with.",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
 			"expression": "excited",
 			"text": "My, aren’t we impatient? Very well...\n I accept your challenge!",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "gundham"
+			"portrait": "gundham",
+			"speed": 0.05
 		}
 	]
 }

@@ -4,85 +4,85 @@
 			"expression": "excited",
 			"text": "Finally, a worthy opponent! Our battle will go down in history!",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "gundham"
+			"portrait": "gundham",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
 			"text": "I’m glad you’re enjoying yourself.",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
 			"expression": "pissed",
 			"text": "Let us cause an uproar with our majestic vocals!",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "gundham"
+			"portrait": "gundham",
+			"speed": 0.05
 		},
 		{
 			"expression": "confused",
 			"text": "If you say so..",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
-			"expression": "talk",
+			"expression": "shocked",
 			"text": "Wow! Way to kill the meme, Shumai!",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "gf"
+			"portrait": "gf",
+			"speed": 0.05
 		},
 		{
 			"expression": "shocked",
 			"text": "Meme? What meme? There is no meme.",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
-		},
-		{
-			"expression": "talk",
-			"text": "...",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "gf"
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
 			"expression": "shocked",
-			"text": "Are you okay, grape-hair boy?",
+			"text": "...",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "gundham"
+			"portrait": "gf",
+			"speed": 0.05
 		},
 		{
-			"expression": "talk",
+			"expression": "confused",
+			"text": "Are you okay, grape-hair boy?",
+			"boxState": "normal",
+			"portrait": "gundham",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
 			"text": "Nah, I’m good...",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "gf"
+			"portrait": "gf",
+			"speed": 0.05
 		},
 		{
 			"expression": "confused",
 			"text": "You sure?",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
-			"expression": "talk",
+			"expression": "shocked",
 			"text": "Mhm... let’s just start this song.",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "gf"
+			"portrait": "gf",
+			"speed": 0.05
 		},
 		{
 			"expression": "excited",
 			"text": "I couldn’t agree more.",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.05
 		}
 	]
 }
