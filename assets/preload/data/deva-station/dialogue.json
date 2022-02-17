@@ -5,7 +5,13 @@
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Not gonna lie... although your appearance is questionable, you might be my favorite challenger yet."
+			"text": "Not gonna lie..."
+		},		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "although your appearance is questionable, you might be my favorite challenger yet."
 		},		{
 			"speed": 0.05,
 			"portrait": "gundham",

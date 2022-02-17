@@ -26,7 +26,7 @@
 			"text": "*pops into existence*"
 		},		{
 			"speed": 0.05,
-			"portrait": "bf",
+			"portrait": "gf",
 			"boxState": "normal",
 			"expression": "talk",
 			"text": "Welcome to Strawberry House. Here, you will face your third challenger."
@@ -71,15 +71,14 @@
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Look, let’s just get this over with. I have other matters to attend to, once I leave this place."
+			"text": "Look, let’s just get this over with."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "gundham",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "My, aren’t we impatient? Very well... I accept your challenge!
-			"
+			"text": "My, aren’t we impatient? Very well...\n I accept your challenge!"
 		}
 	]
 }

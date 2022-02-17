@@ -11,7 +11,13 @@
 			"portrait": "gf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "That’s the point of the game, Shumai. You best be prepared, as these next few challenges will be just as difficult."
+			"text": "That’s the point of the game, Shumai. You best be prepared,"
+		},		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "these next few challenges will be just as difficult."
 		},		{
 			"speed": 0.05,
 			"portrait": "bf",
@@ -41,7 +47,13 @@
 			"portrait": "gundham",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "You may have bested me in battle THIS time, Shuichi...but you won't be so lucky the next time we meet!"
+			"text": "You may have bested me in battle THIS time, Shuichi..."
+		},	{
+			"speed": 0.05,
+			"portrait": "gundham",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but you won't be so lucky the next time we meet!"
 		},		{
 			"speed": 0.05,
 			"portrait": "bf",
