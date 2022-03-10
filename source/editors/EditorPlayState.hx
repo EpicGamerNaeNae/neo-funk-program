@@ -721,6 +721,25 @@ class EditorPlayState extends MusicBeatState
 						note.destroy();
 					}
 					return;
+					case 'Kiss': //Hurt note
+					noteMiss(note.noteData);
+					--songMisses;
+					if(!note.isSustainNote) {
+						if(!note.noteSplashDisabled) {
+							spawnNoteSplashOnNote(note);
+						}
+					}
+
+					note.wasGoodHit = true;
+					vocals.volume = 0;
+
+					if (!note.isSustainNote)
+					{
+						note.kill();
+						notes.remove(note, true);
+						note.destroy();
+					}
+					return;
 			}
 
 			if (!note.isSustainNote)
