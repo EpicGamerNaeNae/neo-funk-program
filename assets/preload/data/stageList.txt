@@ -1,3 +1,6 @@
 stage
 library
 strawberryhouse
+bar
+sonic 2
+birthday

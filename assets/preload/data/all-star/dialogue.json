@@ -1,0 +1,11 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "deez nuts",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

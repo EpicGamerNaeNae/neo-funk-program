@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Leon_Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				20,
+				2
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Leon_Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-28,
+				-22
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Leon_Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				20,
+				20
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Leon_Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				80,
+				-151
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Leon_Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Leon",
+	"position": [
+		-100,
+		20
+	],
+	"healthicon": "leon",
+	"flip_x": false,
+	"healthbar_colors": [
+		207,
+		104,
+		65
+	],
+	"camera_position": [
+		0,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

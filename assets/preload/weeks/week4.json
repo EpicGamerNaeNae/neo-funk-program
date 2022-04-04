@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Grand Slam", "leon", [207, 104, 65]],
+		["All-Star", "leon", [207, 104, 65]],
+		["Kickback", "leon", [207, 104, 65]]
+	],
+
+	"weekCharacters": [
+		"leon",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "bar",
+
+	"storyName": "The Bite of 11037",
+	"weekBefore": "week3",
+	"weekName": "Week 4",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

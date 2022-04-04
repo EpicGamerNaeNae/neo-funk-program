@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Birthday Boy", "chihiro", [219, 172, 131]],
+		["Polygoniacs", "chihiro", [219, 172, 131]],
+		["Kimonotized", "chihiro", [219, 172, 131]],
+		["Fiesta Slayer", "chihiro", [219, 172, 131]]
+	],
+
+	"weekCharacters": [
+		"chihiro",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "birthday",
+
+	"storyName": "Birthday Battle",
+	"weekBefore": "week4",
+	"weekName": "birthday",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

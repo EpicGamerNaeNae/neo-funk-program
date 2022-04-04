@@ -262,6 +262,10 @@ class PlayState extends MusicBeatState
 	// Less laggy controls
 	private var keysArray:Array<Dynamic>;
 
+
+	//sussy variables
+	var kissvalue:Int=0;
+
 	override public function create()
 	{
 		#if MODS_ALLOWED
@@ -418,6 +422,18 @@ class PlayState extends MusicBeatState
 			
 			case 'strawberryhouse': //Week 3
 				var bg:BGSprite = new BGSprite('strawberry', -500, -250, 1, 1);
+				add(bg);
+				
+			case 'bar': //Week 4
+				var bg:BGSprite = new BGSprite('bar', -500, -250, 1, 1);
+				add(bg);
+			
+			case 'birthday': //Week 5
+				var bg:BGSprite = new BGSprite('birthday', -500, -250, 1, 1);
+				add(bg);
+				
+			case 'sonic 2': //Week 6
+				var bg:BGSprite = new BGSprite('sonic 2', -500, -250, 1, 1);
 				add(bg);
 		}
 
@@ -3479,6 +3495,19 @@ class PlayState extends MusicBeatState
 						if(boyfriend.animation.getByName('hurt') != null) {
 							boyfriend.playAnim('hurt', true);
 							boyfriend.specialAnim = true;
+						}
+						case 'Kiss Note': //Hurt note
+						if(boyfriend.animation.getByName('hurt') != null) {
+							boyfriend.playAnim('hurt', true);
+							boyfriend.specialAnim = true;
+							//if (kissvalue<3)
+							//{
+								kissvalue = kissvalue + 1;
+								var kissfilter = new FlxSprite(-FlxG.width, -FlxG.height).makeGraphic(FlxG.width * 3, FlxG.height * 3, FlxColor.PINK);
+								kissfilter.scrollFactor.set();
+								kissfilter.cameras = [camHUD];
+								add(kissfilter);
+							//}
 						}
 				}
 				

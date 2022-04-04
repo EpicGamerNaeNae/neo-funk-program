@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Glamorous", "miu", [229, 150, 182]],
+		["Circlejerkin'", "miu", [229, 150, 182]],
+		["Stimiulation", "miu", [229, 150, 182]]
+	],
+
+	"weekCharacters": [
+		"miu",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "sonic 2",
+
+	"storyName": "Lustful Intelligence",
+	"weekBefore": "birthday",
+	"weekName": "Week 5",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
