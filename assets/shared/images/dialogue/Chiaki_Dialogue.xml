@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Chiaki_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF0000" x="0" y="0" width="884" height="1767"/>
+	<SubTexture name="BF CONFUSED0000" x="1768" y="0" width="884" height="1767"/>
+	<SubTexture name="BF CONFUSED LOOP0000" x="1768" y="0" width="884" height="1767"/>
+	<SubTexture name="BF EXCITED0000" x="2652" y="0" width="884" height="1767"/>
+	<SubTexture name="BF EXCITED LOOP0000" x="2652" y="0" width="884" height="1767"/>
+	<SubTexture name="BF LOOP0000" x="0" y="0" width="884" height="1767"/>
+	<SubTexture name="BF PISSED0000" x="3536" y="0" width="884" height="1767"/>
+	<SubTexture name="BF PISSED LOOP0000" x="3536" y="0" width="884" height="1767"/>
+	<SubTexture name="BF SHOCK0000" x="884" y="0" width="884" height="1767"/>
+	<SubTexture name="BF SHOCK LOOP0000" x="884" y="0" width="884" height="1767"/>
+</TextureAtlas>

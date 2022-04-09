@@ -3496,19 +3496,22 @@ class PlayState extends MusicBeatState
 							boyfriend.playAnim('hurt', true);
 							boyfriend.specialAnim = true;
 						}
-						case 'Kiss Note': //Hurt note
+					
+					case 'Kiss Note': //Kiss note
 						if(boyfriend.animation.getByName('hurt') != null) {
 							boyfriend.playAnim('hurt', true);
 							boyfriend.specialAnim = true;
-							//if (kissvalue<3)
-							//{
+							if (kissvalue<3)
+							{
 								kissvalue = kissvalue + 1;
-								var kissfilter = new FlxSprite(-FlxG.width, -FlxG.height).makeGraphic(FlxG.width * 3, FlxG.height * 3, FlxColor.PINK);
+								var kissfilter:BGSprite = new BGSprite('school', -300, 60, 1, 1);
 								kissfilter.scrollFactor.set();
 								kissfilter.cameras = [camHUD];
 								add(kissfilter);
-							//}
+							}
+
 						}
+						
 				}
 				
 				note.wasGoodHit = true;
